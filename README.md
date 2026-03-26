@@ -30,6 +30,8 @@ Design a platform capable of:
 
 The system is designed as a modular and scalable platform, supporting real-time processing and integration with external tools.
 
+![Architecture Diagram](./archpng.png)
+
 ### Core Components
 
 * **Conversational Interface Layer**
